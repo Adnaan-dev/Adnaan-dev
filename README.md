@@ -5,7 +5,7 @@
 - 💻 Passionate about **Full Stack Development & AI**
 - 📚 Currently learning **Java & Data Structures**
 - 🎯 Aiming to become a **YouTuber & Software Developer**
-- 🌍 I speak **Kashmiri,Hindi and English**
+- 🌍 I speak **Kashmiri,English,Urdu and Hindi **
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS , C , C++ 
