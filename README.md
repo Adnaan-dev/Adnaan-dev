@@ -1,7 +1,5 @@
 ##  🌟 Hi, I'm Adnan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="50px">
-
 
 
 ## 🚀 About Me
