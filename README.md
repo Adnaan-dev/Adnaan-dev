@@ -10,10 +10,10 @@
 
 ## 🧑‍💻 About Me
 - 🎓 6th Semester CSIT Student  
-- 💻 Full Stack Developer (MERN Stack)  
+- 💻 Full Stack Developer
 - 🤖 AI/ML Enthusiast + Autonomous Agents Builder  
 - 🚀 Built real-world AI + Web projects  
-- 🎯 Goal: Software Engineer + AI Creator + Tech YouTuber  
+- 🎯 Goal: Software Engineer + AI Creator
 
 ---
 
