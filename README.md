@@ -6,7 +6,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;Building+AI+Agents;Creating+Real+World+Projects)
 ![Projects](https://img.shields.io/badge/🚀%20Creating%20Real%20World%20AI%20Projects-00F7FF?style=for-the-badge)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Creating+Real+World+AI+Projects;Building+Autonomous+Systems;Full+Stack+%2B+AI+Developer;Turning+Ideas+Into+Reality🚀&color=00F7FF&center=true&width=600&height=50)
+<h2 align="center">
+  🚀 <span style="color:#00F7FF;">Creating Real World AI Projects</span>
+</h2>
+## 🚀 My Work
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Creating+Real+World+AI+Projects;Building+Autonomous+Systems;Full+Stack+%2B+AI+Developer&color=00F7FF&center=true&width=600&height=50)
 ---
 
 ## 🧑‍💻 About Me
