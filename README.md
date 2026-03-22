@@ -5,6 +5,7 @@
 💡 Building AI-powered systems that solve real-world problems  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;Building+AI+Agents;Creating+Real+World+Projects)
+![Projects](https://img.shields.io/badge/🚀%20Creating%20Real%20World%20AI%20Projects-00F7FF?style=for-the-badge)
 
 ---
 
