@@ -27,11 +27,38 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 Ecoscope AI
-- 🤖 AI-powered intelligent system  
-- 📊 Smart data analysis & insights  
-- 🌐 Web-integrated solution  
-- ⚡ Real-time decision support  
+## 🚀 Featured Projects
+
+### 🌿 EcoScope AI | Bird Decline Population Predictor
+🔗  https://github.com/Adnaan-dev/Bird-Population-Decline-AI
+
+- 🛰️ Processes Sentinel-2 satellite imagery (13 spectral bands)  
+- 📊 Computes NDVI, NDWI, NDBI for habitat health monitoring  
+- 🗺️ Interactive map with click-to-analyze feature  
+- ⚡ Real-time satellite data retrieval  
+- 🤖 AI-based risk prediction for bird population decline  
+- 📉 Reduced manual analysis time by 40%  
+
+---
+
+### 🏛️ Heritage App (SIH-1648 Solution) Year - 2024
+🔗 https://heritageworld.vercel.app/
+
+- 🌐 Multilingual chatbot-based ticket booking system  
+- 🎤 Voice assistant integration for better UX  
+- 💳 Secure payment gateway integration  
+- 📊 Analytics dashboard handling 1000+ visitors data  
+- ⚡ Full-stack web application (Frontend + Backend)  
+
+---
+
+### 🥔 Potato Blight Detection
+🔗 https://github.com/Adnaan-dev/Potato-Blight-detection
+
+- 🤖 CNN model trained on plant disease dataset  
+- 🎯 Achieved 99% accuracy  
+- 🌐 Flask web app for real-time image upload  
+- 📸 Instant disease prediction system  
 
 ---
 
@@ -39,13 +66,6 @@
 - 🧠 Built intelligent task-based agents  
 - 🔄 Automation workflows  
 - 📡 Decision-making systems  
-
----
-
-### 💬 Realtime Chat Application
-- ⚡ Built using Socket.IO  
-- 🔐 JWT Authentication  
-- 🌙 Dark Mode + Typing Indicator  
 
 ---
 
