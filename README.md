@@ -94,19 +94,6 @@ TensorFlow, PyTorch, OpenCV, Scikit-learn
 
 ---
 
-## 📊 GitHub Stats
-
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnaan-dev&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adnaan-dev&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adnaan-dev&theme=tokyo-night)
-
----
 
 
 ⭐ Star my repositories if you find them useful!
