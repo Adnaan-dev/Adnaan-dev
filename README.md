@@ -1,156 +1,311 @@
+```markdown
 <h1 align="center">
-  🌟 Hi, I'm Adnan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+  Hi 👋, I'm Adnan Farooq
 </h1>
 
+<h3 align="center">
+🚀 Full Stack Developer • 🤖 AI Engineer • 🧠 Building Autonomous AI Systems
+</h3>
+
 <p align="center">
-  🚀 <b>Full Stack Developer</b> &nbsp;|&nbsp; 🤖 <b>AI Engineer</b> &nbsp;|&nbsp; 🧠 <b>Building Autonomous Systems</b>
-  <br>
-  💡 <i>Building AI-powered systems that solve real-world problems</i>
+Building intelligent software powered by AI, scalable backend systems, cloud technologies, and modern web development.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Creating+Real+World+AI+Projects;Building+Autonomous+Systems;Full+Stack+%2B+AI+Developer&color=00F7FF&center=true&width=600&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineer;Building+Autonomous+AI+Systems;LLM+%26+Agentic+AI+Developer;Cloud+%26+Backend+Enthusiast;Always+Learning+Something+New" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adnaan-dev&label=Profile%20Views&color=00F7FF&style=flat" alt="profile views" />
-  <a href="https://github.com/Adnaan-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/Adnaan-dev?label=Followers&style=flat&color=00F7FF" alt="followers" />
-  </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-<img align="right" width="440" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="hacker" />
-
-- 🎓 &nbsp;6th Semester CSIT Student
-- 💻 &nbsp;Full Stack Developer
-- 🤖 &nbsp;AI/ML Enthusiast + Autonomous Agents Builder
-- 🚀 &nbsp;Built real-world AI + Web projects
-- 🎯 &nbsp;Goal: Software Engineer + AI Creator
-
-<br clear="right" />
-
----
-
-## 🔥 What I'm Working On
-
-<img align="right" width="440" src="<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/0381b442-fd88-48b6-bee0-73ac1289fdfa" />
-" />
-
-- 🧠 &nbsp;AI Agents & Autonomous Systems
-- 🌐 &nbsp;Scalable Web Applications
-- 📊 &nbsp;AI-powered Productivity Tools
-- 🧩 &nbsp;Data Structures & Algorithms (Placement Prep)
-
-<br clear="right" />
-
----
-
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="coding environment" />
+  <img src="https://komarev.com/ghpvc/?username=Adnaan-dev&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/Adnaan-dev?label=Followers&style=flat&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/Adnaan-dev?affiliations=OWNER&style=flat&color=00F7FF"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-### 🌿 EcoScope AI | Bird Decline Population Predictor
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+
+🎓 6th Semester CSIT Undergraduate
+
+💼 Software Engineering Intern
+
+💻 Full Stack Developer
+
+🤖 AI / Machine Learning Engineer
+
+🧠 Building Autonomous AI Agents
+
+🌍 Passionate about solving real-world problems using AI
+
+🚀 Love Backend Engineering, Cloud & Intelligent Systems
+
+📚 Currently Learning
+
+- LLM Engineering
+- Agentic AI
+- Multi-Agent Systems
+- Databricks
+- Snowflake
+- Docker
+- AWS
+- System Design
+
+<br clear="right"/>
+
+---
+
+# 🚀 Current Focus
+
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+
+🧠 AI Agents & Autonomous Systems
+
+🌐 Scalable Full Stack Applications
+
+⚡ AI-Powered Productivity Tools
+
+📊 Data Engineering Projects
+
+☁️ Cloud & Containerized Applications
+
+💻 DSA & System Design for Placements
+
+<br clear="right"/>
+
+---
+
+# 🌟 Featured Projects
+
+## 🌿 EcoScope AI — Bird Population Decline Prediction
+
 🔗 https://github.com/Adnaan-dev/Bird-Population-Decline-AI
 
-- 🛰️ Processes Sentinel-2 satellite imagery (13 spectral bands)
-- 📊 Computes NDVI, NDWI, NDBI for habitat health monitoring
-- 🗺️ Interactive map with click-to-analyze feature
-- ⚡ Real-time satellite data retrieval
-- 🤖 AI-based risk prediction for bird population decline
-- 📉 Reduced manual analysis time by 40%
+### Tech Stack
+
+Python • TensorFlow • OpenCV • Sentinel-2 • Leaflet • Flask
+
+### Highlights
+
+- Satellite Image Processing
+- NDVI / NDWI / NDBI Analysis
+- Interactive GIS Dashboard
+- AI-based Habitat Risk Prediction
+- Real-Time Satellite Data Retrieval
+- Reduced Manual Analysis by 40%
 
 ---
 
-### 🏛️ Heritage App (SIH-1648 Solution) — Year 2024
+## 🏛 Heritage AI (Smart India Hackathon)
+
 🔗 https://heritageworld.vercel.app/
 
-- 🌐 Multilingual chatbot-based ticket booking system
-- 🎤 Voice assistant integration for better UX
-- 💳 Secure payment gateway integration
-- 📊 Analytics dashboard handling 1000+ visitors data
-- ⚡ Full-stack web application (Frontend + Backend)
+### Tech Stack
+
+Next.js • Node.js • MongoDB • Clerk • Stripe • Botpress
+
+### Highlights
+
+- AI Chatbot
+- Voice Assistant
+- Secure Online Ticket Booking
+- Payment Gateway
+- Admin Dashboard
+- Visitor Analytics
 
 ---
 
-### 🥔 Potato Blight Detection
+## 🥔 Potato Blight Detection
+
 🔗 https://github.com/Adnaan-dev/Potato-Blight-detection
 
-- 🤖 CNN model trained on plant disease dataset
-- 🎯 Achieved 99% accuracy
-- 🌐 Flask web app for real-time image upload
-- 📸 Instant disease prediction system
+### Tech Stack
+
+TensorFlow • Flask • OpenCV • Python
+
+### Highlights
+
+- CNN-based Disease Detection
+- 99% Accuracy
+- Real-time Image Prediction
+- Web-based Interface
 
 ---
 
-### 🤖 AI Agents / Autonomous Systems
-- 🧠 Built intelligent task-based agents
-- 🔄 Automation workflows
-- 📡 Decision-making systems
+## 📊 ProdLytics AI
+
+### Tech Stack
+
+JavaScript • Node.js • Express • MongoDB • Chrome APIs
+
+### Highlights
+
+- Website Time Tracking
+- Productivity Analytics
+- Weekly Reports
+- AI Productivity Insights
 
 ---
 
-### 📊 Productivity Chrome Extension
-- ⏱️ Tracks time spent on websites
-- 📈 Weekly reports & analytics
-- 🌐 MongoDB backend integration
+## 🤖 Autonomous AI Agents
+
+### Highlights
+
+- Multi-Agent AI Systems
+- Workflow Automation
+- Decision Making
+- Intelligent Task Execution
+- AI Tool Integration
 
 ---
 
-## 🛠️ Tech Stack
+# ⚙️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,c,java" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,sql"/>
 </p>
 
-### 🌐 Frontend
+## 🌐 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
-### 🗄️ Database
+## 🤖 AI / Machine Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="database" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
 </p>
 
-### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="ai-ml" />
+
+LangChain • LlamaIndex • Hugging Face • OpenAI API • AI Agents • LLM Engineering
+
 </p>
 
+## 🗄️ Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+<p>
+
+Snowflake • Databricks • Data Warehousing
+
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,aws"/>
+</p>
 
 ---
 
-<p align="center">⭐ <b>Star my repositories if you find them useful!</b></p>
+# 📈 GitHub Analytics
 
-## 📢 Let's Connect
+<p align="center">
 
-<p>
-  <a href="https://github.com/Adnaan-dev">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adnaan-dev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnaan-dev&theme=tokyonight"/>
+
 </p>
 
-<p align="center">⭐ <b>Star my repositories if you find them useful!</b> 🚀</p>
+<p align="center">
 
-<!---
-Adnaan-dev/Adnaan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-dev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Software Engineering Intern
+
+🏅 Smart India Hackathon Participant
+
+🏅 Built Multiple AI-Powered Applications
+
+🏅 Full Stack Developer
+
+🏅 AI Engineer
+
+🏅 Open Source Enthusiast
+
+---
+
+# 📚 Currently Exploring
+
+- Large Language Models (LLMs)
+
+- Agentic AI
+
+- Multi-Agent Systems
+
+- Cloud Architecture
+
+- Docker & Kubernetes
+
+- Snowflake
+
+- Databricks
+
+- FastAPI
+
+- System Design
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Adnaan-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Replace with your portfolio URL -->
+<!--
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+-->
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adnaan-dev&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
+
+Let's build something amazing together! 🚀
+
+</p>
+```
