@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="440" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" alt="hacker" />
+<img align="right" width="440" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="hacker" />
 
 - 🎓 &nbsp;6th Semester CSIT Student
 - 💻 &nbsp;Full Stack Developer
