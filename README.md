@@ -1,218 +1,206 @@
-```markdown
 <h1 align="center">
-  Hi 👋, I'm Adnan Farooq
+Hi 👋, I'm Adnan Farooq
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • 🤖 AI Engineer • 🧠 Building Autonomous AI Systems
+Full Stack Developer • AI Engineer • Building Autonomous AI Systems
 </h3>
 
 <p align="center">
-Building intelligent software powered by AI, scalable backend systems, cloud technologies, and modern web development.
+I build intelligent software powered by AI, automation, cloud technologies, and scalable backend systems.
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineer;Building+Autonomous+AI+Systems;LLM+%26+Agentic+AI+Developer;Cloud+%26+Backend+Enthusiast;Always+Learning+Something+New" alt="Typing Animation"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Engineer;Building+Autonomous+AI+Agents;Open+Source+Contributor;Always+Learning+New+Technologies" />
+
 </p>
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adnaan-dev&label=Profile%20Views&color=00F7FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/Adnaan-dev?label=Followers&style=flat&color=00F7FF"/>
-  <img src="https://img.shields.io/github/stars/Adnaan-dev?affiliations=OWNER&style=flat&color=00F7FF"/>
-</p>
+- 🎓 CSIT Undergraduate (6th Semester)
 
----
+- 💼 Software Engineering Intern
 
-# 👨‍💻 About Me
+- 🤖 Building AI Agents & Autonomous Systems
 
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+- 🌍 Passionate about AI, Backend Engineering & Cloud
 
-🎓 6th Semester CSIT Undergraduate
+- 🚀 Love solving real-world problems with software
 
-💼 Software Engineering Intern
+- 📚 Currently learning
 
-💻 Full Stack Developer
+  - LLM Engineering
+  - AI Agents
+  - Databricks
+  - Snowflake
+  - Docker
+  - Cloud Technologies
+ 
 
-🤖 AI / Machine Learning Engineer
+## 🚀 Currently Working On
 
-🧠 Building Autonomous AI Agents
+🧠 Multi-Agent AI Systems
 
-🌍 Passionate about solving real-world problems using AI
-
-🚀 Love Backend Engineering, Cloud & Intelligent Systems
-
-📚 Currently Learning
-
-- LLM Engineering
-- Agentic AI
-- Multi-Agent Systems
-- Databricks
-- Snowflake
-- Docker
-- AWS
-- System Design
-
-<br clear="right"/>
-
----
-
-# 🚀 Current Focus
-
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
-
-🧠 AI Agents & Autonomous Systems
-
-🌐 Scalable Full Stack Applications
-
-⚡ AI-Powered Productivity Tools
+⚡ Full Stack AI Applications
 
 📊 Data Engineering Projects
 
-☁️ Cloud & Containerized Applications
+🌐 Scalable Backend APIs
 
-💻 DSA & System Design for Placements
+☁️ Cloud & Containerized Deployments
 
-<br clear="right"/>
+💻 DSA + System Design
 
----
 
-# 🌟 Featured Projects
 
-## 🌿 EcoScope AI — Bird Population Decline Prediction
+## ⭐ Featured Projects
 
-🔗 https://github.com/Adnaan-dev/Bird-Population-Decline-AI
+### 🌿 EcoScope AI
 
-### Tech Stack
+AI-powered bird population decline prediction using satellite imagery.
+
+**Tech**
 
 Python • TensorFlow • OpenCV • Sentinel-2 • Leaflet • Flask
 
-### Highlights
+Highlights
 
-- Satellite Image Processing
-- NDVI / NDWI / NDBI Analysis
-- Interactive GIS Dashboard
-- AI-based Habitat Risk Prediction
-- Real-Time Satellite Data Retrieval
-- Reduced Manual Analysis by 40%
+✔ Satellite image processing
+
+✔ NDVI / NDWI / NDBI calculation
+
+✔ Interactive GIS dashboard
+
+✔ AI prediction engine
 
 ---
 
-## 🏛 Heritage AI (Smart India Hackathon)
+### 🏛 Heritage AI
 
-🔗 https://heritageworld.vercel.app/
+Smart India Hackathon solution for AI-powered heritage ticket booking.
 
-### Tech Stack
+**Tech**
 
 Next.js • Node.js • MongoDB • Clerk • Stripe • Botpress
 
-### Highlights
+Highlights
 
-- AI Chatbot
-- Voice Assistant
-- Secure Online Ticket Booking
-- Payment Gateway
-- Admin Dashboard
-- Visitor Analytics
+✔ AI Chatbot
 
----
+✔ Voice Assistant
 
-## 🥔 Potato Blight Detection
+✔ Secure Payments
 
-🔗 https://github.com/Adnaan-dev/Potato-Blight-detection
-
-### Tech Stack
-
-TensorFlow • Flask • OpenCV • Python
-
-### Highlights
-
-- CNN-based Disease Detection
-- 99% Accuracy
-- Real-time Image Prediction
-- Web-based Interface
+✔ Admin Dashboard
 
 ---
 
-## 📊 ProdLytics AI
+### 🥔 Potato Blight Detection
 
-### Tech Stack
+Deep Learning based plant disease detection system.
 
-JavaScript • Node.js • Express • MongoDB • Chrome APIs
+**Tech**
 
-### Highlights
+TensorFlow • Flask • OpenCV
 
-- Website Time Tracking
-- Productivity Analytics
-- Weekly Reports
-- AI Productivity Insights
+Highlights
 
----
+✔ CNN Model
 
-## 🤖 Autonomous AI Agents
+✔ 99% Accuracy
 
-### Highlights
-
-- Multi-Agent AI Systems
-- Workflow Automation
-- Decision Making
-- Intelligent Task Execution
-- AI Tool Integration
+✔ Real-time Prediction
 
 ---
 
-# ⚙️ Tech Stack
+### 📊 ProdLytics
 
-## 💻 Languages
+AI-powered productivity analytics Chrome Extension.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,sql"/>
-</p>
+**Tech**
 
-## 🌐 Frontend
+JavaScript • MongoDB • Express • Chrome APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
-</p>
+Highlights
 
-## ⚙️ Backend
+✔ Website Tracking
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
+✔ Productivity Analytics
 
-## 🤖 AI / Machine Learning
+✔ AI Insights
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
-</p>
+✔ Weekly Reports
 
-<p>
 
-LangChain • LlamaIndex • Hugging Face • OpenAI API • AI Agents • LLM Engineering
 
-</p>
+## ⚙ Tech Stack
 
-## 🗄️ Database
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
+Python • Java • JavaScript • SQL • C
 
-<p>
+### Frontend
 
-Snowflake • Databricks • Data Warehousing
+React
 
-</p>
+Next.js
 
-## ☁️ Cloud & DevOps
+TailwindCSS
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,aws"/>
-</p>
+HTML
 
----
+CSS
 
-# 📈 GitHub Analytics
+### Backend
+
+Node.js
+
+Express.js
+
+FastAPI
+
+REST APIs
+
+### AI / ML
+
+TensorFlow
+
+PyTorch
+
+Scikit-learn
+
+OpenCV
+
+LangChain
+
+LLMs
+
+AI Agents
+
+### Databases
+
+MongoDB
+
+MySQL
+
+Snowflake
+
+Databricks
+
+### Cloud & DevOps
+
+Docker
+
+Git
+
+GitHub
+
+GitHub Actions
+
+Vercel
+
+Netlify
+
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -228,84 +216,45 @@ Snowflake • Databricks • Data Warehousing
 
 </p>
 
----
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 🏅 Software Engineering Intern
 
 🏅 Smart India Hackathon Participant
 
-🏅 Built Multiple AI-Powered Applications
+🏅 Built multiple AI-powered applications
+
+🏅 Open Source Contributor
 
 🏅 Full Stack Developer
 
-🏅 AI Engineer
 
-🏅 Open Source Enthusiast
-
----
-
-# 📚 Currently Exploring
-
-- Large Language Models (LLMs)
-
-- Agentic AI
-
-- Multi-Agent Systems
-
-- Cloud Architecture
-
-- Docker & Kubernetes
-
-- Snowflake
-
-- Databricks
-
-- FastAPI
-
-- System Design
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Adnaan-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<!-- Replace with your portfolio URL -->
-<!--
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
--->
 
 </p>
+
 
 ---
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adnaan-dev&theme=tokyonight&row=1&column=7"/>
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider starring my repositories.
 
 </p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories.
-
-Let's build something amazing together! 🚀
-
-</p>
-```
