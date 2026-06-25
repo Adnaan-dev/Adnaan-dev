@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" />
+<img align="right" width="440" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" alt="hacker" />
 
 - 🎓 &nbsp;6th Semester CSIT Student
 - 💻 &nbsp;Full Stack Developer
@@ -37,7 +37,7 @@
 
 ## 🔥 What I'm Working On
 
-<img align="right" width="440" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" alt="ai working" />
+<img align="right" width="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding person" />
 
 - 🧠 &nbsp;AI Agents & Autonomous Systems
 - 🌐 &nbsp;Scalable Web Applications
@@ -45,6 +45,12 @@
 - 🧩 &nbsp;Data Structures & Algorithms (Placement Prep)
 
 <br clear="right" />
+
+---
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="coding environment" />
+</p>
 
 ---
 
