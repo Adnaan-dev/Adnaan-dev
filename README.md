@@ -136,14 +136,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" alt="top languages" />
-</p>
-
----
 
 <p align="center">⭐ <b>Star my repositories if you find them useful!</b></p>
 
