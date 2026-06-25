@@ -1,109 +1,173 @@
-## <h2 align="center">  🌟 Hi, I'm Adnan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">
+  🌟 Hi, I'm Adnan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+</h1>
 
+<p align="center">
+  🚀 <b>Full Stack Developer</b> &nbsp;|&nbsp; 🤖 <b>AI Engineer</b> &nbsp;|&nbsp; 🧠 <b>Building Autonomous Systems</b>
+  <br>
+  💡 <i>Building AI-powered systems that solve real-world problems</i>
+</p>
 
-🚀 Full Stack Developer | AI Engineer | Building Autonomous Systems  
-💡 Building AI-powered systems that solve real-world problems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Creating+Real+World+AI+Projects;Building+Autonomous+Systems;Full+Stack+%2B+AI+Developer&color=00F7FF&center=true&width=600&height=50" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adnaan-dev&label=Profile%20Views&color=00F7FF&style=flat" alt="profile views" />
+  <a href="https://github.com/Adnaan-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/Adnaan-dev?label=Followers&style=flat&color=00F7FF" alt="followers" />
+  </a>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Creating+Real+World+AI+Projects;Building+Autonomous+Systems;Full+Stack+%2B+AI+Developer&color=00F7FF&center=true&width=600&height=50)
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 6th Semester CSIT Student  
-- 💻 Full Stack Developer
-- 🤖 AI/ML Enthusiast + Autonomous Agents Builder  
-- 🚀 Built real-world AI + Web projects  
-- 🎯 Goal: Software Engineer + AI Creator
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🎓 6th Semester CSIT Student</li>
+        <li>💻 Full Stack Developer</li>
+        <li>🤖 AI/ML Enthusiast + Autonomous Agents Builder</li>
+        <li>🚀 Built real-world AI + Web projects</li>
+        <li>🎯 Goal: Software Engineer + AI Creator</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="100%" alt="coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 What I'm Working On
-- 🧠 AI Agents & Autonomous Systems  
-- 🌐 Scalable Web Applications  
-- 📊 AI-powered Productivity Tools  
-- 🧩 Data Structures & Algorithms (Placement Prep)  
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🧠 AI Agents &amp; Autonomous Systems</li>
+        <li>🌐 Scalable Web Applications</li>
+        <li>📊 AI-powered Productivity Tools</li>
+        <li>🧩 Data Structures &amp; Algorithms (Placement Prep)</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" width="100%" alt="ai working" />
+    </td>
+  </tr>
+</table>
 
 ---
-
 
 ## 🚀 Featured Projects
 
 ### 🌿 EcoScope AI | Bird Decline Population Predictor
-🔗  https://github.com/Adnaan-dev/Bird-Population-Decline-AI
+🔗 https://github.com/Adnaan-dev/Bird-Population-Decline-AI
 
-- 🛰️ Processes Sentinel-2 satellite imagery (13 spectral bands)  
-- 📊 Computes NDVI, NDWI, NDBI for habitat health monitoring  
-- 🗺️ Interactive map with click-to-analyze feature  
-- ⚡ Real-time satellite data retrieval  
-- 🤖 AI-based risk prediction for bird population decline  
-- 📉 Reduced manual analysis time by 40%  
+- 🛰️ Processes Sentinel-2 satellite imagery (13 spectral bands)
+- 📊 Computes NDVI, NDWI, NDBI for habitat health monitoring
+- 🗺️ Interactive map with click-to-analyze feature
+- ⚡ Real-time satellite data retrieval
+- 🤖 AI-based risk prediction for bird population decline
+- 📉 Reduced manual analysis time by 40%
 
 ---
 
-### 🏛️ Heritage App (SIH-1648 Solution) Year - 2024
+### 🏛️ Heritage App (SIH-1648 Solution) — Year 2024
 🔗 https://heritageworld.vercel.app/
 
-- 🌐 Multilingual chatbot-based ticket booking system  
-- 🎤 Voice assistant integration for better UX  
-- 💳 Secure payment gateway integration  
-- 📊 Analytics dashboard handling 1000+ visitors data  
-- ⚡ Full-stack web application (Frontend + Backend)  
+- 🌐 Multilingual chatbot-based ticket booking system
+- 🎤 Voice assistant integration for better UX
+- 💳 Secure payment gateway integration
+- 📊 Analytics dashboard handling 1000+ visitors data
+- ⚡ Full-stack web application (Frontend + Backend)
 
 ---
 
 ### 🥔 Potato Blight Detection
 🔗 https://github.com/Adnaan-dev/Potato-Blight-detection
 
-- 🤖 CNN model trained on plant disease dataset  
-- 🎯 Achieved 99% accuracy  
-- 🌐 Flask web app for real-time image upload  
-- 📸 Instant disease prediction system  
+- 🤖 CNN model trained on plant disease dataset
+- 🎯 Achieved 99% accuracy
+- 🌐 Flask web app for real-time image upload
+- 📸 Instant disease prediction system
 
 ---
 
 ### 🤖 AI Agents / Autonomous Systems
-- 🧠 Built intelligent task-based agents  
-- 🔄 Automation workflows  
-- 📡 Decision-making systems  
+- 🧠 Built intelligent task-based agents
+- 🔄 Automation workflows
+- 📡 Decision-making systems
 
 ---
 
 ### 📊 Productivity Chrome Extension
-- ⏱️ Tracks time spent on websites  
-- 📈 Weekly reports & analytics  
-- 🌐 MongoDB backend integration  
+- ⏱️ Tracks time spent on websites
+- 📈 Weekly reports & analytics
+- 🌐 MongoDB backend integration
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Python, JavaScript, C, Java  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c,java" alt="languages" />
+</p>
 
 ### 🌐 Frontend
-React.js, HTML, CSS, Tailwind CSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="frontend" />
+</p>
 
 ### ⚙️ Backend
-Node.js, Express.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
+</p>
 
 ### 🗄️ Database
-MongoDB, MySQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="database" />
+</p>
 
 ### 🤖 AI / ML
-TensorFlow, PyTorch, OpenCV, Scikit-learn  
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="ai-ml" />
+</p>
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Adnaan-dev&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F7FF&title_color=00F7FF" alt="github stats" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnaan-dev&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="streak stats" />
+</p>
 
-⭐ Star my repositories if you find them useful!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" alt="top languages" />
+</p>
 
+---
+
+<p align="center">⭐ <b>Star my repositories if you find them useful!</b></p>
 
 ## 📢 Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Adnaan-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/)
 
-⭐ **Star my repositories if you find them useful!** 🚀
+<p>
+  <a href="https://github.com/Adnaan-dev">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">⭐ <b>Star my repositories if you find them useful!</b> 🚀</p>
+
 <!---
 Adnaan-dev/Adnaan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
