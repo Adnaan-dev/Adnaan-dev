@@ -138,10 +138,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Adnaan-dev&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F7FF&title_color=00F7FF" alt="github stats" />
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnaan-dev&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="streak stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" alt="top languages" />
