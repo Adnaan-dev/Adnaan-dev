@@ -25,17 +25,15 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🎓 6th Semester CSIT Student</li>
-        <li>💻 Full Stack Developer</li>
-        <li>🤖 AI/ML Enthusiast + Autonomous Agents Builder</li>
-        <li>🚀 Built real-world AI + Web projects</li>
-        <li>🎯 Goal: Software Engineer + AI Creator</li>
-      </ul>
+    <td valign="middle" width="52%">
+      <h3>🎓 &nbsp;6th Semester CSIT Student</h3>
+      <h3>💻 &nbsp;Full Stack Developer</h3>
+      <h3>🤖 &nbsp;AI/ML Enthusiast + Autonomous Agents Builder</h3>
+      <h3>🚀 &nbsp;Built real-world AI + Web projects</h3>
+      <h3>🎯 &nbsp;Goal: Software Engineer + AI Creator</h3>
     </td>
-    <td valign="top" width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="coding" />
+    <td valign="middle" width="48%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420" alt="coding" />
     </td>
   </tr>
 </table>
@@ -46,16 +44,14 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🧠 AI Agents &amp; Autonomous Systems</li>
-        <li>🌐 Scalable Web Applications</li>
-        <li>📊 AI-powered Productivity Tools</li>
-        <li>🧩 Data Structures &amp; Algorithms (Placement Prep)</li>
-      </ul>
+    <td valign="middle" width="52%">
+      <h3>🧠 &nbsp;AI Agents &amp; Autonomous Systems</h3>
+      <h3>🌐 &nbsp;Scalable Web Applications</h3>
+      <h3>📊 &nbsp;AI-powered Productivity Tools</h3>
+      <h3>🧩 &nbsp;Data Structures &amp; Algorithms (Placement Prep)</h3>
     </td>
-    <td valign="top" width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" width="100%" alt="ai working" />
+    <td valign="middle" width="48%" align="center">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" width="420" alt="ai working" />
     </td>
   </tr>
 </table>
