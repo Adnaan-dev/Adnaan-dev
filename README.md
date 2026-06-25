@@ -48,19 +48,16 @@
 ## 🔥 What I'm Working On
 
 <img align="right" width="440" alt="image" src="https://github.com/user-attachments/assets/0381b442-fd88-48b6-bee0-73ac1289fdfa" />
+- **🧠 AI Agents & Autonomous Systems**
+- **🌐 Scalable Full Stack Web Applications**
+- **📊 AI-Powered Productivity Tools**
+- **☁️ Cloud, Docker & Backend Development**
+- **📈 Data Engineering with Snowflake & Databricks**
+- **🤖 LLMs, Agentic AI & Intelligent Workflows**
+- **🧩 Data Structures & Algorithms (Placement Prep)**
+- **🚀 Building Real-World AI Products & Open Source Projects**
 
-- 🧠 &nbsp;AI Agents & Autonomous Systems
-- 🌐 &nbsp;Scalable Web Applications
-- 📊 &nbsp;AI-powered Productivity Tools
-- 🧩 &nbsp;Data Structures & Algorithms (Placement Prep)
-
-<br clear="right" />
-
----
-
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="coding environment" />
-</p>
+<br clear="right" /> 
 
 ---
 
@@ -149,14 +146,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adnaan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnaan-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnaan-dev&theme=tokyo-night&hide_border=true" alt="activity graph" />
