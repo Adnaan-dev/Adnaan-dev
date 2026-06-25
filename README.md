@@ -48,6 +48,8 @@
 ## 🔥 What I'm Working On
 
 <img align="right" width="440" alt="image" src="https://github.com/user-attachments/assets/0381b442-fd88-48b6-bee0-73ac1289fdfa" />
+
+
 ### 🧠 **Building AI Agents & Autonomous Systems**
 
 ### 🌐 **Developing Scalable Full Stack Web Applications**
