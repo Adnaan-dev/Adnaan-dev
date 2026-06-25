@@ -25,11 +25,18 @@
 
 <img align="right" width="440" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="hacker" />
 
-- 🎓 &nbsp;6th Semester CSIT Student
-- 💻 &nbsp;Full Stack Developer
-- 🤖 &nbsp;AI/ML Enthusiast + Autonomous Agents Builder
-- 🚀 &nbsp;Built real-world AI + Web projects
-- 🎯 &nbsp;Goal: Software Engineer + AI Creator
+- 🎓 &nbsp;6th Semester CSIT Undergraduate passionate about Software Engineering & Artificial Intelligence
+- 💼 &nbsp;Software Engineering Intern gaining hands-on experience in building scalable enterprise applications
+- 💻 &nbsp;Full Stack Developer specializing in React, Next.js, Node.js, Express.js, MongoDB, and modern web technologies
+- 🤖 &nbsp;AI Engineer focused on Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs)
+- 🧠 &nbsp;Building Autonomous AI Agents, workflow automation, and intelligent software systems
+- 📊 &nbsp;Exploring Data Engineering using Snowflake, Databricks, SQL, and modern data pipelines
+- ☁️ &nbsp;Learning Cloud Computing, Docker, APIs, and scalable backend architectures
+- 🚀 &nbsp;Developed multiple real-world AI, Full Stack, and productivity-focused applications
+- 🌱 &nbsp;Continuously improving Data Structures & Algorithms, System Design, and Backend Development
+- 💡 &nbsp;Passionate about solving real-world problems through AI-powered software solutions
+- 🌍 &nbsp;Open to collaborating on innovative AI, Open Source, and Full Stack projects
+- 🎯 &nbsp;Aspiring to become a Software Engineer, AI Engineer, and build impactful products used by millions
 
 <br clear="right" />
 
@@ -37,7 +44,7 @@
 
 ## 🔥 What I'm Working On
 
-src="<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/0381b442-fd88-48b6-bee0-73ac1289fdfa" />
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/0381b442-fd88-48b6-bee0-73ac1289fdfa" />
 
 - 🧠 &nbsp;AI Agents & Autonomous Systems
 - 🌐 &nbsp;Scalable Web Applications
