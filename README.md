@@ -23,38 +23,28 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="middle" width="52%">
-      <h3>🎓 &nbsp;6th Semester CSIT Student</h3>
-      <h3>💻 &nbsp;Full Stack Developer</h3>
-      <h3>🤖 &nbsp;AI/ML Enthusiast + Autonomous Agents Builder</h3>
-      <h3>🚀 &nbsp;Built real-world AI + Web projects</h3>
-      <h3>🎯 &nbsp;Goal: Software Engineer + AI Creator</h3>
-    </td>
-    <td valign="middle" width="48%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420" alt="coding" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" />
+
+- 🎓 &nbsp;6th Semester CSIT Student
+- 💻 &nbsp;Full Stack Developer
+- 🤖 &nbsp;AI/ML Enthusiast + Autonomous Agents Builder
+- 🚀 &nbsp;Built real-world AI + Web projects
+- 🎯 &nbsp;Goal: Software Engineer + AI Creator
+
+<br clear="right" />
 
 ---
 
 ## 🔥 What I'm Working On
 
-<table>
-  <tr>
-    <td valign="middle" width="52%">
-      <h3>🧠 &nbsp;AI Agents &amp; Autonomous Systems</h3>
-      <h3>🌐 &nbsp;Scalable Web Applications</h3>
-      <h3>📊 &nbsp;AI-powered Productivity Tools</h3>
-      <h3>🧩 &nbsp;Data Structures &amp; Algorithms (Placement Prep)</h3>
-    </td>
-    <td valign="middle" width="48%" align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" width="420" alt="ai working" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="440" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hacker.gif" alt="ai working" />
+
+- 🧠 &nbsp;AI Agents & Autonomous Systems
+- 🌐 &nbsp;Scalable Web Applications
+- 📊 &nbsp;AI-powered Productivity Tools
+- 🧩 &nbsp;Data Structures & Algorithms (Placement Prep)
+
+<br clear="right" />
 
 ---
 
@@ -134,10 +124,9 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="ai-ml" />
 </p>
 
+
+
 ---
-
-
-
 
 <p align="center">⭐ <b>Star my repositories if you find them useful!</b></p>
 
