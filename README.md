@@ -48,14 +48,21 @@
 ## 🔥 What I'm Working On
 
 <img align="right" width="440" alt="image" src="https://github.com/user-attachments/assets/0381b442-fd88-48b6-bee0-73ac1289fdfa" />
-- **🧠 AI Agents & Autonomous Systems**
-- **🌐 Scalable Full Stack Web Applications**
-- **📊 AI-Powered Productivity Tools**
-- **☁️ Cloud, Docker & Backend Development**
-- **📈 Data Engineering with Snowflake & Databricks**
-- **🤖 LLMs, Agentic AI & Intelligent Workflows**
-- **🧩 Data Structures & Algorithms (Placement Prep)**
-- **🚀 Building Real-World AI Products & Open Source Projects**
+### 🧠 **Building AI Agents & Autonomous Systems**
+
+### 🌐 **Developing Scalable Full Stack Web Applications**
+
+### 📊 **Creating AI-Powered Productivity Tools**
+
+### ☁️ **Learning Cloud, Docker & Backend Development**
+
+### 📈 **Exploring Data Engineering with Snowflake & Databricks**
+
+### 🤖 **Working with LLMs, Agentic AI & Intelligent Workflows**
+
+### 🧩 **Practicing Data Structures & Algorithms (Placement Prep)**
+
+### 🚀 **Building Real-World AI Products & Contributing to Open Source**
 
 <br clear="right" /> 
 
@@ -146,9 +153,8 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnaan-dev&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 > 💡 If any card above shows an error, click into it once on GitHub — these stats services occasionally need a refresh on first load.
