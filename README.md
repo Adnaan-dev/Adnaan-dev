@@ -153,11 +153,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
 
 > 💡 If any card above shows an error, click into it once on GitHub — these stats services occasionally need a refresh on first load.
 
